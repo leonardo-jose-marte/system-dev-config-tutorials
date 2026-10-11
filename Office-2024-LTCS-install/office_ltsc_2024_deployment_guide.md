@@ -18,9 +18,3 @@ setup /configure configuration.xml
 
 ## 4. Scripts de activación de Microsoft (MAS)
 irm https://get.activated.win | iex
-
-
-# CÓDIGO DE LICENCIA OPCIONAL
-
-## Lincecia:
-XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB
