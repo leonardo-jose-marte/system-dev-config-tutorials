@@ -14,7 +14,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=49117
 https://config.office.com/deploymentsettings
 
 ## 3. Instalar Office LTSC 2024 mediante la herramienta de implementación de Office
-setup /configure configuration.xml
+.\setup.exe /configure Configuration.xml
 
 ## 4. Scripts de activación de Microsoft (MAS)
 irm https://get.activated.win | iex
