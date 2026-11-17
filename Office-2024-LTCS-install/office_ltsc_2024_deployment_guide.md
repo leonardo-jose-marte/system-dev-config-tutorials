@@ -18,5 +18,6 @@ https://config.office.com/deploymentsettings
 ´´´txt
 .\setup.exe /configure Configuration.xml
 ´´´
+
 ## 4. Scripts de activación de Microsoft (MAS)
 irm https://get.activated.win | iex
